@@ -1,0 +1,21 @@
+/* styles.css */
+
+.body-odd {
+    background-color: #bd13cc;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#evenA {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.body-special {
+    font-size: 24px;
+}
+
+#evenB {
+    background-color: rgb(127, 255, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
